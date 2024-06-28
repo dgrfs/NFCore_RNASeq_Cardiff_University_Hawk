@@ -1,0 +1,9 @@
+input: samplesheet.csv
+outdir: results
+aligner: star_salmon
+save_align_intermeds: true
+save_unaligned: true
+remove_ribo_rna: true
+save_non_ribo_reads: true
+save_trimmed: true
+save_reference: false

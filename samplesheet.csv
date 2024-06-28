@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness,seq.run,lane
+TESTX,source_data/TESTX_H7YRLADXX_S1_L001_R1_001.fastq.gz,source_data/TESTX_H7YRLADXX_S1_L001_R2_001.fastq.gz,auto,H7YRLADXX,L001
+TESTX,source_data/TESTX_H7YRLADXX_S1_L002_R1_001.fastq.gz,source_data/TESTX_H7YRLADXX_S1_L002_R2_001.fastq.gz,auto,H7YRLADXX,L002
+TESTY,source_data/TESTY_H7YRLADXX_S1_L001_R1_001.fastq.gz,source_data/TESTY_H7YRLADXX_S1_L001_R2_001.fastq.gz,auto,H7YRLADXX,L001
+TESTY,source_data/TESTY_H7YRLADXX_S1_L002_R1_001.fastq.gz,source_data/TESTY_H7YRLADXX_S1_L002_R2_001.fastq.gz,auto,H7YRLADXX,L002
+TESTZ,source_data/TESTZ_H7YRLADXX_S1_L001_R1_001.fastq.gz,source_data/TESTZ_H7YRLADXX_S1_L001_R2_001.fastq.gz,auto,H7YRLADXX,L001
+TESTZ,source_data/TESTZ_H7YRLADXX_S1_L002_R1_001.fastq.gz,source_data/TESTZ_H7YRLADXX_S1_L002_R2_001.fastq.gz,auto,H7YRLADXX,L002

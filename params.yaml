@@ -1,6 +1,6 @@
 input: samplesheet.csv
 outdir: results
-aligner: star_salmon
+aligner: hisat2
 save_align_intermeds: true
 save_unaligned: true
 remove_ribo_rna: true

@@ -3,7 +3,7 @@ library(Rsubread)
 # Set working directory
 setwd("/home/user/scratch/workspace_directory")
 
-files <- list.files(path = "./results/star_salmon/",
+files <- list.files(path = "./results/hisat2/",
 	pattern="*sorted.bam$",
 	all.files=FALSE,
 	full.names=TRUE,
